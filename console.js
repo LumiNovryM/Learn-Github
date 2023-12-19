@@ -8,3 +8,8 @@ function printName(urName){
 };
 
 printName("Lumi Novry M");
+
+
+const arrFunc = () => {
+  console.log("This is arrow function");
+}
